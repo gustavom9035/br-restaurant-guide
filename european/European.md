@@ -5,4 +5,4 @@ Select a restaurant:
 ## [Greek](greek.md)
 ## [Mediterranean](Mediterranean.md)
 ---
-[start over](../home.md)
+[Start Over](../home.md)
